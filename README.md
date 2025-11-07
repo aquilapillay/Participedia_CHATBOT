@@ -61,6 +61,6 @@ The chatbot processes text from Participedia cases, methods, and organizations, 
 
 *Aquila Pillay*  
 🎓 MPS in Analytics, Northeastern University, Vancouver  
-💼 Data Enthusiast with experience in analytics, visualization, and storytelling  
+💼 Data Enthusiast with experience in analytics, visualization, and storytelling (1+ years in SQL, ETL, Power BI, and Python) 
 📧 [aquilapersis@gmail.com](mailto:aquilapersis@gmail.com)  
 🔗 [LinkedIn](http://linkedin.com/in/aquilapillay)
